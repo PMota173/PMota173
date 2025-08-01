@@ -13,11 +13,16 @@
 ### 🧠 A little more about me...
 
 ```javascript
-const pedro = {
-  code: ["Javasript", "Typescript", "Java", "Python", "C", "React"],
-  tools: ["Jest", "Docker", "Prisma", "Pandas", "Jupyter Notebook"],
-  architecture: ["TDD", "Data Structures", "Responsive Design", "API Integration"],
-  interests: ["Software Development", "Web Development", "Data Analysis"],
-  challenge: "Currently working on a mobile game focused on learning backend development."
-}
 
+const pedro = {
+  code: [Javascript, Typescript, HTML, CSS, C, Python, Java],
+  tools: [React, NodeJs, NextJs, Docker, Jest, Git, Linux],
+  architecture: ["TDD", "Data Structures", "Responsive Design", "API Integration"],
+  education: {
+    university: "UFPel",
+    degree: "BSc in Computer Science",
+    currentSemester: 5,
+  },
+  challenge: "Developing a multiplayer mobile game using NestJS, to learn backend"
+}
+```
