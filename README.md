@@ -22,6 +22,5 @@ const pedro = {
     degree: "BSc in Computer Science",
     currentSemester: 5,
   },
-  challenge: "Developing a multiplayer mobile game using NestJS, to learn backend"
 }
 ```
