@@ -15,12 +15,17 @@
 
 const pedro = {
   code: [Javascript, Typescript, HTML, CSS, C, Python, Java],
-  tools: [React, NodeJs, NextJs, Docker, Jest, Git, Linux],
-  architecture: ["TDD", "Data Structures", "Responsive Design", "API Integration"],
+  tools: [React, NodeJs, NextJs, Docker, Git, Linux],
+  architecture: ["TDD", "Data Structures", "API Integration", "Responsive Design"],
   education: {
     university: "UFPel",
     degree: "BSc in Computer Science",
-    currentSemester: 5,
+    currentSemester: 6,
+  },
+  work: {
+      company: "Primeira Mesa",
+      role: "Intern",
+      site: "https://site.primeiramesa.com.br"
   },
 }
 ```
